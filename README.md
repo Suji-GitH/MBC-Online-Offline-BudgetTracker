@@ -43,7 +43,7 @@ Landing Page
 <img src = "./public/img/Screenshots/LandingPage.jpg">
 
 * With Data
-<img src = "./public/img/Screenshots/LandingPage.jpg">
+<img src = "./public/img/Screenshots/LandingPageData.jpg">
 
 Add Transaction
 <img src = "./public/img/Screenshots/AddT.jpg">
