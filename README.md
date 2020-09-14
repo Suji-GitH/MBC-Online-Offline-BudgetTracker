@@ -38,16 +38,22 @@ THEN that will be shown on the page, and added to their transaction history when
 ###### App Screenshots
 
 Landing Page
-<img src = "./public/assets/Screenshots/LandingPage.jpg">
 
-Add Exercise
-<img src = "./public/assets/Screenshots/addExercise.jpg">
+* Without Data
+<img src = "./public/img/Screenshots/LandingPage.jpg">
 
-Completed Exercise
-<img src = "./public/assets/Screenshots/completedExercise.jpg">
+* With Data
+<img src = "./public/img/Screenshots/LandingPage.jpg">
 
-Dashboard
-<img src = "./public/assets/Screenshots/Dashboard.jpg">
+Add Transaction
+<img src = "./public/img/Screenshots/AddT.jpg">
+
+<img src = "./public/img/Screenshots/AddT1.jpg">
+
+Subtract Transaction
+<img src = "./public/img/Screenshots/SubT.jpg">
+
+<img src = "./public/img/Screenshots/SubT1.jpg">
 
 ## Credits
 
